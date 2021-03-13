@@ -46,7 +46,7 @@ TARGET_SCREEN_WIDTH := 1080
 TARGET_SCREEN_DENSITY := 420
 
 # Kernel
-TARGET_KERNEL_CONFIG := lavender_defconfig
+TARGET_KERNEL_CONFIG := vendor/mystic-lavender_defconfig
 BOARD_KERNEL_SEPARATED_DTBO := true
 
 # Manifest
