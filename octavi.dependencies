@@ -1,0 +1,38 @@
+[
+    {
+        "remote": "github",
+        "repository": "OctaviOS-Devices/vendor_xiaomi_lavender",
+        "target_path": "vendor/xiaomi/lavender",
+        "branch": "11"
+    },
+    {
+        "remote": "github",
+        "repository": "OctaviOS-Devices/vendor_xiaomi_660-common",
+        "target_path": "vendor/xiaomi/sdm660-common",
+        "branch": "11"
+    },
+    {
+        "remote": "github",
+        "repository": "OctaviOS-Devices/device_xiaomi_sdm660-common",
+        "target_path": "device/xiaomi/sdm660-common",
+        "branch": "11"
+    },
+    {
+        "remote": "github",
+        "repository": "OctaviOS-Devices/kernel_xiaomi_sdm660",
+        "target_path": "kernel/xiaomi/sdm660",
+        "branch": "11"
+    },
+    {
+        "remote": "github",
+        "repository": "OctaviOS-Devices/kernel_xiaomi_sdm660",
+        "target_path": "kernel/xiaomi/sdm660",
+        "branch": "11"
+    },
+    {
+        "remote": "github",
+        "repository": "ChrisW444/vendor_XiaomiParts",
+        "target_path": "vendor/XiaomiParts",
+        "branch": "4.4-kernel"
+    }
+]
